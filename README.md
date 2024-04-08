@@ -1,6 +1,11 @@
 # cog-wow-quests
 Cog demo for GPT-2 finetuned on World of Warcraft quests
 
+## Weights
+
+The weights for this demo can be downloaded from [here](https://jd7h.com/assets/gpt-2-wow-checkpoint.rar).
+The contents of this rar should be extracted in a folder `checkpoint/gpt2-wow`.
+
 ## Paper
 
 Open access paper in the ACM digital library: [Fine-tuning GPT-2 on annotated RPG quests for NPC dialogue generation](https://dl.acm.org/doi/10.1145/3472538.3472595)
